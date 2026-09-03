@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.plr.villicense.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "villicense.refmap.json",
+  "mixins": [
+    "MixinVillager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,32 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+*.DS_Store
+
+# forge / run
+run/
+run_server/
+run_client/
+run_data/
+logs/
+
+# reference binaries
+*.jar
+!gradle/wrapper/gradle-wrapper.jar

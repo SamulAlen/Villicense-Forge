@@ -1,0 +1,11 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:green_dye" }
+  ],
+  "result": {
+    "item": "villicense:villager_license",
+    "count": 1
+  }
+}
